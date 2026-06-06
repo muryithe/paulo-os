@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paulo OS
 
 A unified personal system — public portfolio, SQL knowledge base, and private dashboard.
@@ -54,3 +55,6 @@ BLOB_READ_WRITE_TOKEN=vercel_blob_rw_PjGOToJRHrLle5Iy_X6jGg1L2T39I0rwB5OvxUcRtvu
 - `/dashboard/family` — Family album & events
 - `/dashboard/notes` — Markdown notes editor
 - `/dashboard/settings` — Settings
+=======
+# paulo-os
+>>>>>>> fc136af044b6bcdd0f63f121c267b81714b35a4e
