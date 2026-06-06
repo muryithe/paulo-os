@@ -24,12 +24,7 @@ Open http://localhost:3000
 Create `.env.local`:
 
 ```
-MONGODB_URI=mongodb+srv://paulo:<password>@paulo.cgn4uis.mongodb.net/?appName=paulo
-NEXTAUTH_SECRET=fxY2y0/bZKzS3S/Lz3ryn2+/zUZ3StvsG+EhALzoyzY=
-NEXTAUTH_URL=http://localhost:3000
-ADMIN_EMAIL=mutukupaul76@gmail.com
-ADMIN_PASSWORD=Admpassword
-BLOB_READ_WRITE_TOKEN=vercel_blob_rw_PjGOToJRHrLle5Iy_X6jGg1L2T39I0rwB5OvxUcRtvuB5to
+
 ```
 
 ## Deploy to Vercel
@@ -57,4 +52,4 @@ BLOB_READ_WRITE_TOKEN=vercel_blob_rw_PjGOToJRHrLle5Iy_X6jGg1L2T39I0rwB5OvxUcRtvu
 - `/dashboard/settings` — Settings
 =======
 # paulo-os
->>>>>>> fc136af044b6bcdd0f63f121c267b81714b35a4e
+>>>>>>> 
